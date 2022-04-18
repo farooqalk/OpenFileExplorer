@@ -1,4 +1,4 @@
-# OpenFileExplorer
+# OpenFileExplorer (openf)
 **Usage:**
 openf (Opens Windows File Explorer at current directory)
 
